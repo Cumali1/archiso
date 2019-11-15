@@ -32,8 +32,9 @@ polkit-gnome
 gnome-keyring
 
 ##theme
-numix-themes
+#numix-themes
 #arc-icon-theme
+slim-themes
 
 ##fonts
 ttf-dejavu
