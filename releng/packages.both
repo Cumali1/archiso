@@ -9,7 +9,7 @@ dhclient
 dialog
 dmraid
 dnsmasq
-dnsutils
+#dnsutils
 dosfstools
 elinks
 ethtool
@@ -46,7 +46,7 @@ rfkill
 rp-pppoe
 rsync
 smartmontools
-speedtouch
+#speedtouch
 sudo
 tcpdump
 testdisk
@@ -54,9 +54,9 @@ usb_modeswitch
 vpnc
 wget
 wireless_tools
-wpa_actiond
+#wpa_actiond
 wvdial
 xl2tpd
-zd1211-firmware
+#zd1211-firmware
 
 
